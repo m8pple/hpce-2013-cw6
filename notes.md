@@ -236,9 +236,9 @@ it was worth seeing what they were doing. So you modify
 the client to dump their solution, and I got something
 like this on Friday afternoon:
 
-[watcher], 1395421042.26, 2,          Clockwork : 8.7422e+33, 0.710351
-     677223039 :   7013673e 6d9375a1 d67343a1 7bea4ddd 1321484b 9eb5b394 38087149 7ed6205e
-     852613467 :   7013673e ca89f041 f4f697a2 b7fde5dc 60857f6c 6eed26a8 bfd11df6 0cbdee2f
+    [watcher], 1395421042.26, 2,          Clockwork : 8.7422e+33, 0.710351
+    677223039 :   7013673e 6d9375a1 d67343a1 7bea4ddd 1321484b 9eb5b394 38087149 7ed6205e
+    852613467 :   7013673e ca89f041 f4f697a2 b7fde5dc 60857f6c 6eed26a8 bfd11df6 0cbdee2f
     1446307660 :   06326ca9 057bff40 9b090200 c2064930 b802034a 1faeb649 9a4f6c1f 50725067
     1553243078 :   6df6691c 72177301 977d1863 e621031a ccfa8d14 e5bf1440 a40c46cb d0109ca2
     1621698088 :   06326ca9 627279e0 b98c5601 fe19e130 05663a6a efe6295e 221818cb de5a1e38
